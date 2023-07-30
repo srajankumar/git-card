@@ -1,6 +1,8 @@
 {
-  "name": "gitcard",
+  "name": "git-card",
   "version": "0.1.0",
+  "author": "srajankumar",
+  "description": "github card generator",
   "private": true,
   "scripts": {
     "dev": "next dev",
