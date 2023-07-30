@@ -63,6 +63,7 @@ export default function CardWithForm() {
                   id="name"
                   placeholder="Enter your GitHub username"
                   value={name}
+                  required
                   onChange={(event) => setName(event.target.value)}
                 />
               </div>

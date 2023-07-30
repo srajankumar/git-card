@@ -19,14 +19,14 @@ export default function HoverCardDemo() {
               <div className="flex flex-col">
                 <Link
                   className="text-sm hover:underline mb-1 underline-offset-4"
-                  href="https://github.com/srajankumar/gitcard"
+                  href="https://github.com/srajankumar"
                   target="_blank"
                 >
                   my-profile
                 </Link>
                 <Link
                   className="text-sm hover:underline underline-offset-4"
-                  href="https://github.com/srajankumar/gitcard"
+                  href="https://github.com/srajankumar/git-card"
                   target="_blank"
                 >
                   source-code
